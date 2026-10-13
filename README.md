@@ -293,6 +293,7 @@ drivemeinsane.com/ – This site allows you to use home automation to have fun a
 rms.sexy/ – A slideshow of (sexy) RMS
 mordorweather.illus.ru/ – Weather of Mordor
 Audio/music/sound/TTS related sites:
+https://noiseremover.site/ – QuietTake: free browser-local speech-noise cleanup, playback comparison and WAV export, without signup or audio upload (up to 50 MB and five minutes per file).
 touhou.kuukunen.net 1 – Weeb music
 doujinstyle.com/?p=tlmc – Weeb music but in big collections you can download.
 the.wubmachine.com – This will remix any audio file you upload with sometimes pleasing results.
